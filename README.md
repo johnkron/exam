@@ -15,10 +15,13 @@ Add the original repository as a remote with the name upstream. Show that you ha
 ## 4. Read/Debug the code in src/main.js try to answer the following questions
 
   - What is the value of "text" after line 6 has been executed?
+  1
 
   - What is the value of "number" when the program has reached line 14?
+  1
 
   - What is the value of array when the program has reached line 19
+  1, 2, 3
 
 ## 5. Write a program that prompts for two numbers and adds them togheter
 
