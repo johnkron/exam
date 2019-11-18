@@ -10,7 +10,7 @@ In the forked repository create a new branch named exam-result.
 
 ## 3. Add remote
 
-Add the original repository as a remote with the name upstream. Show that you have done it correctly by listing all your remotes, and take a screen shoot of the command output. Create a commit of the picture.
+Add the original repository as a remote with the name upstream. Show that you have done it correctly by listing all your remotes, and take a screenshot of the command output. Create a commit of the picture.
 
 ## 4. Read/Debug the code in src/main.js try to answer the following questions
 
